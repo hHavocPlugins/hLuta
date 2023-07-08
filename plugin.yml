@@ -1,0 +1,7 @@
+name: hLuta
+version: 1.0.0
+author: Havoc5222
+main: hLuta.Main
+commands:
+  luta:
+  hlutaadmin:
